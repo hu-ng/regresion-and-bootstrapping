@@ -9,7 +9,7 @@ For an assignment in my Causal Inference course, I used R to achieve the followi
 
 To run the code:
 
-- Have RStudio installed
-- Clone the repo and open `code.R`
+- Have RStudio installed.
+- Clone the repo and open `code.R`.
 - (Optional) Import the included workspace.
 - Execute the file.
