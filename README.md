@@ -1,6 +1,7 @@
 # Regression and Boostrapping in R
 
-# Discussion:
+
+## Discussion:
 
 For an assignment in my Causal Inference course, I used R to achieve the following things:
 
@@ -9,7 +10,7 @@ For an assignment in my Causal Inference course, I used R to achieve the followi
 - Bootstrap from scratch (without using the `boot` function) to estimate a confidence interval for a coefficient of a regression model.
 - Plot graphs, from histograms to ones with confidence intervals.
 
-# Instructions:
+## Instructions:
 
 Have RStudio installed.
 Clone the repo, navigate to the repo folder, run `code.R`. (Optional) Import the included workspace before running the file.
